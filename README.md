@@ -1,0 +1,2 @@
+RNA-seq pipeline includes Quality Control, rRNA filtering, Genome Alignment using HISAT2, and STAR, and estimating gene and isoform expression levels by RSEM, featureCounts and Salmon. 
+Alternatively, Kallisto or Salmon could be used for quantifying abundances of transcripts based on pseudoalignments, without the need for alignment.
